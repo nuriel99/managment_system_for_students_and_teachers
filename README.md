@@ -12,7 +12,7 @@ They can insert their marks of the courses, can see the average of all courses, 
 Java, Collections, Inheritance, polymorphism.
 
 ### GIT
-https://github.com/nuriel99/managment_system_for_students_and_teachers
+https://github.com/nuriel99/managment_system_for_students_and_teachers/tree/main
 
 ### Youtube
 https://youtu.be/u4_633gQQu8
